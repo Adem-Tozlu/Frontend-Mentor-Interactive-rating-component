@@ -110,6 +110,10 @@ span:hover{
 .submit:hover{
     background-color: var(--white-color);
 }
+.attribution{
+    bottom: 0;
+    position: absolute;
+}
 
 /* ----Page2----- */
 
@@ -129,3 +133,4 @@ h2{
     width: 9rem;
     margin-top: 0.4rem;
 }
+
