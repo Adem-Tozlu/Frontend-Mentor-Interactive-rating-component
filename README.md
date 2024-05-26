@@ -28,7 +28,7 @@ The users should be able to:
 
 ### Screenshot
 
-![Screenshot](./assets/images/screenshot-faq-project.png)
+![Screenshot](./images/screenshot-responsiv.png)
 
 ### Links
 
@@ -50,8 +50,7 @@ The users should be able to:
 During the course, I solidified my understanding of JavaScript and gained hands-on experience in applying it effectively in the browser environment. Practical exercises allowed me to significantly enhance my frontend development skills.
 
 ## Continued development
-I will create more projects in Frontend Mentor in the future to further develop my React skills.
-
+To further enhance my JavaScript skills in the browser environment, I will be working on additional projects on Frontend Mentor.
 
 ## Author
 
